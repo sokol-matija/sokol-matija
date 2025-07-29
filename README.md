@@ -361,7 +361,7 @@ Initial hotel inventory management prototype - foundation for current enterprise
 <div align="center">
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/66o5u6b7amuxtv9kbabma2fsr)
-[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/zerocool247)
 
 *"Great code requires great music 🎶"*
 
