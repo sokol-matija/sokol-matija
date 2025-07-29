@@ -360,7 +360,7 @@ Initial hotel inventory management prototype - foundation for current enterprise
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1a1a&border_color=ff6b6b)](https://open.spotify.com/user/your-spotify-username)
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1a1a&border_color=ff6b6b)](https://open.spotify.com/user/66o5u6b7amuxtv9kbabma2fsr)
 
 </div>
 
