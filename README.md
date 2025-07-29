@@ -13,27 +13,39 @@
 
 ```typescript
 const matija = {
-    pronouns: "He/Him",
-    location: "📍 Europe",
-    currentFocus: "Building awesome full-stack applications",
-    passions: ["Clean Code", "User Experience", "Problem Solving"],
-    funFact: "I love turning coffee ☕ into code 💻",
-    askMeAbout: ["React", "TypeScript", "Full-Stack Development", "Mobile Apps"],
-    currentlyLearning: ["Advanced Animation with GSAP", "System Design"],
+    age: 28,
+    location: "📍 Zagreb, Croatia",
+    company: "TomiPharm - Wholesale Pharmaceutical Company",
+    role: "Integrated Systems IT Specialist (2+ years)",
+    education: "Bachelor's Degree @ Algebra University Zagreb (Final Year)",
+    currentFocus: "Hotel Management System Development",
+    passions: ["Clean Code", "System Integration", "Full-Stack Solutions"],
+    funFact: "I love turning complex business requirements into elegant code ⚡",
+    askMeAbout: [".NET", "React", "TypeScript", "System Integration", "API Design"],
+    currentlyLearning: ["Advanced DevOps", "Cloud Architecture", "System Design"],
     openToCollaborate: true
 };
 ```
 
-🔭 **Currently working on:** Full-stack applications with React and Supabase  
-🌱 **Learning:** Advanced animation techniques and system architecture  
-👯 **Open to:** Collaborate on interesting open-source projects  
-💬 **Ask me about:** React, TypeScript, or anything full-stack development  
-⚡ **Fun fact:** I believe every bug is just a feature waiting to be discovered! 🐛➡️✨
+## 💼 Professional Experience
+**🏥 TomiPharm** - *Integrated Systems IT Specialist* (2+ years)  
+Building and maintaining enterprise-level pharmaceutical wholesale systems
+
+**🎓 Algebra University Zagreb** - *Computer Science Student* (Final Year)  
+Focusing on software engineering and system architecture
+
+## 🚀 Current Focus
+🔭 **Currently building:** Hotel Management System with real-time inventory tracking  
+🌱 **Learning:** Advanced DevOps practices and cloud architecture patterns  
+👯 **Open to:** System integration projects and full-stack development opportunities  
+💬 **Ask me about:** .NET APIs, React applications, or pharmaceutical IT systems  
+⚡ **Fun fact:** I specialize in turning complex business requirements into elegant, scalable solutions! 
 
 <div align="center">
 
-![Current Time](https://img.shields.io/badge/Current%20Time-⏰%20Europe/Zagreb-blue?style=flat-square)
+![Current Time](https://img.shields.io/badge/Location-📍%20Zagreb%2C%20Croatia-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-💻%20Available%20for%20Projects-green?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-2%2B%20Years%20Enterprise-orange?style=flat-square)
 
 </div>
 
@@ -43,26 +55,26 @@ const matija = {
 
 </div>
 
-### 💻 Languages
+### 💻 Programming Languages
 <table>
 <tr>
   <td>
     
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
   </td>
   <td width="50%">
     
-**Proficiency Levels:**
+**Enterprise Proficiency:**
 ```text
+C# (.NET)    ████████████████████   95%
 TypeScript   ████████████████████   95%
-JavaScript   ████████████████████   95%
-C#           ███████████████        80%
-Python       ██████████████         75%
+JavaScript   ████████████████████   90%
+SQL          ██████████████████     85%
 Java         ████████████           65%
 ```
 
@@ -70,22 +82,34 @@ Java         ████████████           65%
 </tr>
 </table>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-### ⚙️ Backend & Database
+### 🏢 Backend & APIs
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![RESTful API](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### 🎨 Frontend & UI
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases & Storage
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🛠️ Project Management & Tools
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Agile](https://img.shields.io/badge/-Agile-FF6B35?style=for-the-badge&logo=agile&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <div align="center">
 
@@ -93,104 +117,124 @@ Java         ████████████           65%
 
 </div>
 
+### 🏆 **Current Focus Project**
+<div align="center">
+
+### 🏨 Hotel Inventory Management System
+![Project Demo](https://via.placeholder.com/600x250/1f2937/ffffff?text=Hotel+Inventory+Management+System)
+
+**Enterprise-grade inventory management solution currently in development**
+
+</div>
+
+**🛠️ Tech Stack:** React, TypeScript, Supabase, Tailwind CSS, Real-time APIs  
+**✨ Key Features:** Real-time tracking, Multi-hotel support, Automated notifications, Comprehensive reporting  
+**🎯 Status:** Active Development | **💼 Professional Project**
+
+---
+
 <table>
 <tr>
 <td width="50%">
 
-### 🏥 Hotel Inventory Management
+### 💊 TomiPharm Integration System
 <div align="center">
 
-![Project Demo](https://via.placeholder.com/400x200/1f2937/ffffff?text=Hotel+Inventory+Demo)
+![TomiPharm](https://via.placeholder.com/400x200/059669/ffffff?text=TomiPharm+System)
 
 </div>
 
-A comprehensive inventory management solution for hotels with real-time tracking and notifications.
+**Professional pharmaceutical wholesale management system** - Enterprise solution for pharmaceutical distribution.
 
-**🛠️ Tech Stack:**
-- React, TypeScript, Supabase
-- Tailwind CSS, Real-time APIs
+**🛠️ Enterprise Stack:**
+- .NET Framework, ASP.NET
+- SQL Server, RESTful APIs
+- System Integration
 
-**✨ Features:**
-- 📊 Real-time inventory tracking
-- 🔔 Push notifications
-- 📝 Comprehensive audit logs
-- 🌐 Multi-language support
+**✨ Business Features:**
+- 🏥 Wholesale inventory management
+- 📊 Enterprise reporting
+- 🔗 System integration
+- 📈 Business analytics
 
-[🔗 View Project](https://github.com/sokol-matija) | [🚀 Live Demo](#)
+**💼 Professional Project @ TomiPharm**
 
 </td>
 <td width="50%">
 
-### 💊 Pharmacy Management (HP-Duga)
+### 🏠 Abode Student Rentals
 <div align="center">
 
-![Project Demo](https://via.placeholder.com/400x200/059669/ffffff?text=Pharmacy+Management)
+![Abode](https://via.placeholder.com/400x200/7c3aed/ffffff?text=Abode+Student+Rentals)
 
 </div>
 
-Full-stack pharmacy management with e-invoice integration and inventory tracking.
+Modern student accommodation platform connecting students with verified rental properties.
 
 **🛠️ Tech Stack:**
-- React, TypeScript, Supabase
-- SOAP APIs, PostgreSQL
+- React, TypeScript, Vite
+- Supabase, Tailwind CSS
+- Vercel Deployment
 
 **✨ Features:**
-- 🧾 E-invoice generation
-- 📦 Inventory management
-- 🏪 Multi-pharmacy support
-- 📊 Analytics dashboard
+- 🏠 Property listings & search
+- 👥 Student-landlord matching
+- ✅ Property verification
+- 📱 Mobile-responsive design
 
-[🔗 View Project](https://github.com/sokol-matija) | [🚀 Live Demo](#)
+[🔗 View Project](https://github.com/sokol-matija/abode-student-rentals)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎮 Pokemon Cards CSS
+### 🛍️ OICAR v2 - E-Commerce Platform
 <div align="center">
 
-![Project Demo](https://via.placeholder.com/400x200/dc2626/ffffff?text=Pokemon+Cards+CSS)
+![OICAR](https://via.placeholder.com/400x200/dc2626/ffffff?text=OICAR+E-Commerce)
 
 </div>
 
-Interactive Pokemon card collection with realistic holographic effects and smooth animations.
+**Full-stack e-commerce marketplace** with cross-platform mobile app and comprehensive testing.
 
-**🛠️ Tech Stack:**
-- Svelte, CSS3, GSAP
-- Responsive Design
+**🛠️ Enterprise Stack:**
+- .NET 9.0 API, React Native
+- Angular 17, Azure SQL
+- Azure Cloud, CI/CD Pipeline
 
 **✨ Features:**
-- ✨ Holographic card effects
-- 🔄 Smooth flip animations
-- 📱 Responsive design
-- 🎨 3D transformations
+- 🏪 Complete e-commerce platform
+- 📱 Cross-platform mobile app
+- 🔐 JWT authentication
+- 🧪 41 API + 17 mobile tests
+- ⚙️ Automated CI/CD
 
-[🔗 View Project](https://github.com/sokol-matija) | [🚀 Live Demo](#)
+[🔗 View Project](https://github.com/sokol-matija/OICAR-v2) | [🚀 Team Project](#)
 
 </td>
 <td width="50%">
 
-### 🧮 BMI Calculator Suite
+### 🏨 Hotel Inventory (Previous Version)
 <div align="center">
 
-![Project Demo](https://via.placeholder.com/400x200/7c3aed/ffffff?text=BMI+Calculator)
+![Hotel](https://via.placeholder.com/400x200/0ea5e9/ffffff?text=Hotel+Inventory)
 
 </div>
 
-Cross-platform BMI calculator available as both web and mobile applications.
+Initial hotel inventory management prototype - foundation for current enterprise version.
 
 **🛠️ Tech Stack:**
-- React, TypeScript, Kotlin
-- Tailwind CSS, Android SDK
+- React, TypeScript, Supabase
+- Tailwind CSS, Real-time APIs
 
-**✨ Features:**
-- 📱 Cross-platform compatibility
-- 🎨 Modern UI/UX design
-- 📊 Health metrics tracking
-- 💾 Data persistence
+**✨ Core Features:**
+- 📊 Inventory tracking
+- 🔔 Notification system
+- 📝 Audit logging
+- 🌐 Multi-language support
 
-[🔗 View Project](https://github.com/sokol-matija) | [🚀 Live Demo](#)
+[🔗 View Project](https://github.com/sokol-matija/hotel-inventory)
 
 </td>
 </tr>
@@ -220,7 +264,9 @@ Cross-platform BMI calculator available as both web and mobile applications.
 ## 🐍 Contribution Snake
 <div align="center">
 
-![Snake animation](https://github.com/sokol-matija/sokol-matija/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sokol-matija/sokol-matija/blob/output/github-contribution-grid-snake-dark.svg)
+
+*🐍 Watch the snake eat my contributions!*
 
 </div>
 
