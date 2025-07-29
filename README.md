@@ -356,11 +356,14 @@ Initial hotel inventory management prototype - foundation for current enterprise
 - **Professional Experience** - 2+ years enterprise development at TomiPharm
 - **Continuous Learning** - Staying current with React 19, .NET 9, and modern full-stack patterns
 
-## 🎵 Currently Listening To
+## 🎵 Music & Inspiration
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1a1a&border_color=ff6b6b)](https://open.spotify.com/user/66o5u6b7amuxtv9kbabma2fsr)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/66o5u6b7amuxtv9kbabma2fsr)
+[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](#)
+
+*"Great code requires great music 🎶"*
 
 </div>
 
