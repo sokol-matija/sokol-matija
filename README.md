@@ -113,11 +113,29 @@ Java         ████████████           65%
 
 <div align="center">
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects & Specializations
 
 </div>
 
-### 🏆 **Current Focus Project**
+### 🎨 **Creative & Interactive Development**
+<div align="center">
+
+### ✨ Pokemon Cards CSS - Holographic Effects
+![Pokemon Cards](https://via.placeholder.com/600x200/ff6b6b/ffffff?text=Pokemon+Cards+CSS+Effects)
+
+**Viral CSS animation project featured on CSS-Tricks**
+
+</div>
+
+**🛠️ Tech Stack:** Svelte, CSS3, GSAP, Advanced Animations  
+**✨ Highlights:** 1.8k+ GitHub stars, Featured on CSS-Tricks & CodePen  
+**🎯 Innovation:** Realistic holographic card effects using pure CSS transforms  
+[🔗 Live Demo](https://poke-holo.simey.me/) | [📰 CSS-Tricks Article](https://css-tricks.com/holographic-trading-card-effect/)
+
+---
+
+### 🏢 **Enterprise & Professional Projects**
+
 <div align="center">
 
 ### 🏨 Hotel Inventory Management System
@@ -128,8 +146,25 @@ Java         ████████████           65%
 </div>
 
 **🛠️ Tech Stack:** React, TypeScript, Supabase, Tailwind CSS, Real-time APIs  
-**✨ Key Features:** Real-time tracking, Multi-hotel support, Automated notifications, Comprehensive reporting  
+**✨ Key Features:** Real-time tracking, Multi-hotel support, Role-based access, Audit trails  
 **🎯 Status:** Active Development | **💼 Professional Project**
+
+---
+
+### 🚀 **Modern Full-Stack Architecture**
+
+<div align="center">
+
+### 🍕 T3 Turbo + Supabase Stack
+![T3 Stack](https://via.placeholder.com/600x200/8b5cf6/ffffff?text=T3+Turbo+Monorepo)
+
+**Modern monorepo showcasing latest full-stack patterns**
+
+</div>
+
+**🛠️ Tech Stack:** Next.js, Expo, tRPC, Prisma, Supabase, Turborepo  
+**✨ Architecture:** Type-safe end-to-end, Cross-platform, Real-time sync  
+**🎯 Innovation:** Pizza restaurant system with modern DX patterns
 
 ---
 
@@ -162,27 +197,27 @@ Java         ████████████           65%
 </td>
 <td width="50%">
 
-### 🏠 Abode Student Rentals
+### 💊 HP-Duga Pharmacy System
 <div align="center">
 
-![Abode](https://via.placeholder.com/400x200/7c3aed/ffffff?text=Abode+Student+Rentals)
+![HP-Duga](https://via.placeholder.com/400x200/059669/ffffff?text=HP-Duga+Pharmacy)
 
 </div>
 
-Modern student accommodation platform connecting students with verified rental properties.
+**Advanced pharmacy management with Croatian e-invoice integration** - Full-stack system serving real pharmaceutical businesses.
 
-**🛠️ Tech Stack:**
-- React, TypeScript, Vite
-- Supabase, Tailwind CSS
-- Vercel Deployment
+**🛠️ Enterprise Stack:**
+- React, TypeScript, Supabase
+- SOAP APIs, XML/UBL generation
+- FINA compliance, Multi-language
 
-**✨ Features:**
-- 🏠 Property listings & search
-- 👥 Student-landlord matching
-- ✅ Property verification
-- 📱 Mobile-responsive design
+**✨ Business Features:**
+- 💊 Multi-pharmacy inventory
+- 🧾 E-invoice generation (Croatian FINA)
+- 📊 Real-time order management
+- 🔗 Enterprise integrations
 
-[🔗 View Project](https://github.com/sokol-matija/abode-student-rentals)
+**🇭🇷 Croatian Market Specialist**
 
 </td>
 </tr>
@@ -256,10 +291,25 @@ Initial hotel inventory management prototype - foundation for current enterprise
 
 ## 💼 What I'm Working On
 
-- 🔭 Currently building full-stack applications with React and Supabase
-- 🌱 Learning advanced animation techniques with GSAP
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about React, TypeScript, or full-stack development
+- 🏨 **Enterprise Focus:** Building hotel management systems with advanced inventory tracking
+- 🎨 **Creative Development:** Mastering GSAP animations and interactive web experiences  
+- 🏥 **Professional Growth:** Developing pharmaceutical IT solutions at TomiPharm
+- 🇭🇷 **Local Expertise:** Croatian e-invoice compliance and regional business systems
+- 👯 **Collaboration:** Open to full-stack projects and system integration challenges
+- 💬 **Ask me about:** Enterprise React apps, .NET APIs, Supabase architecture, or Croatian market IT solutions
+
+## 🎓 Learning Journey
+
+**🎯 Current Focus Areas:**
+- Advanced DevOps practices and cloud architecture patterns
+- Modern animation frameworks (GSAP, Framer Motion)
+- Enterprise system design and microservices
+- Cross-platform development strategies
+
+**📚 Education & Growth:**
+- **Algebra University Zagreb** - Computer Science (Final Year)
+- **Professional Experience** - 2+ years enterprise development at TomiPharm
+- **Continuous Learning** - Staying current with React 19, .NET 9, and modern full-stack patterns
 
 ## 🐍 Contribution Snake
 <div align="center">
