@@ -253,15 +253,12 @@ Java         ████████████           65%
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokol-matija&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sokol-matija&theme=radical&hide_border=true&background=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sokol-matija&theme=radical&hide_border=true&background=0d1117)
 
 </div>
 
-### 🏆 GitHub Achievements & Detailed Stats
-
 <div align="center">
 
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=sokol-matija&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sokol-matija&theme=radical)
 
