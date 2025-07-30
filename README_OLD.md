@@ -32,12 +32,18 @@ const matija = {
 ```
 
 ## 💼 Professional Experience
-
 **🏥 TomiPharm** - *Integrated Systems IT Specialist* (2+ years)  
 Building and maintaining enterprise-level pharmaceutical wholesale systems
 
 **🎓 Algebra University Zagreb** - *Computer Science Student* (Final Year)  
 Focusing on software engineering and system architecture
+
+## 🚀 Current Focus
+🔭 **Currently building:** Hotel Management System with real-time inventory tracking  
+🌱 **Learning:** Advanced DevOps practices and cloud architecture patterns  
+👯 **Open to:** System integration projects and full-stack development opportunities  
+💬 **Ask me about:** .NET APIs, React applications, or pharmaceutical IT systems  
+⚡ **Fun fact:** I specialize in turning complex business requirements into elegant, scalable solutions! 
 
 <div align="center">
 
@@ -99,11 +105,6 @@ Java         ████████████           65%
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 📱 Mobile Development
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
 ### ☁️ DevOps & Cloud
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -115,6 +116,11 @@ Java         ████████████           65%
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![tRPC](https://img.shields.io/badge/-tRPC-398CCB?style=for-the-badge&logo=trpc&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📱 Mobile Development
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <div align="center">
 
@@ -226,24 +232,59 @@ Java         ████████████           65%
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🛍️ OICAR v2 - E-Commerce Platform
+<div align="center">
+
+![OICAR](https://via.placeholder.com/400x200/dc2626/ffffff?text=OICAR+E-Commerce)
+
+</div>
+
+**Full-stack e-commerce marketplace** with cross-platform mobile app and comprehensive testing.
+
+**🛠️ Enterprise Stack:**
+- .NET 9.0 API, React Native
+- Angular 17, Azure SQL
+- Azure Cloud, CI/CD Pipeline
+
+**✨ Features:**
+- 🏪 Complete e-commerce platform
+- 📱 Cross-platform mobile app
+- 🔐 JWT authentication
+- 🧪 41 API + 17 mobile tests
+- ⚙️ Automated CI/CD
+
+[🔗 View Project](https://github.com/sokol-matija/OICAR-v2) | [🚀 Team Project](#)
+
+</td>
+<td width="50%">
+
+### 🏨 Hotel Inventory (Previous Version)
+<div align="center">
+
+![Hotel](https://via.placeholder.com/400x200/0ea5e9/ffffff?text=Hotel+Inventory)
+
+</div>
+
+Initial hotel inventory management prototype - foundation for current enterprise version.
+
+**🛠️ Tech Stack:**
+- React, TypeScript, Supabase
+- Tailwind CSS, Real-time APIs
+
+**✨ Core Features:**
+- 📊 Inventory tracking
+- 🔔 Notification system
+- 📝 Audit logging
+- 🌐 Multi-language support
+
+[🔗 View Project](https://github.com/sokol-matija/hotel-inventory)
+
+</td>
+</tr>
 </table>
-
-## 💼 What I'm Working On & Learning Journey
-
-**🎯 Current Focus:**
-- 🏨 Building hotel management systems with advanced inventory tracking
-- 🎨 Mastering GSAP animations and interactive web experiences  
-- 🏥 Developing pharmaceutical IT solutions at TomiPharm
-- 🇭🇷 Croatian e-invoice compliance and regional business systems
-
-**📚 Always Learning:**
-- Advanced DevOps practices and cloud architecture patterns
-- Modern animation frameworks (GSAP, Framer Motion)
-- Enterprise system design and microservices
-- Cross-platform development strategies
-
-**👯 Open for Collaboration:** Full-stack projects and system integration challenges  
-**💬 Ask me about:** Enterprise React apps, .NET APIs, Supabase architecture, or Croatian market IT solutions
 
 ## 📊 GitHub Stats & Analytics
 
@@ -253,15 +294,45 @@ Java         ████████████           65%
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokol-matija&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff)
 
+</div>
+
+### 📈 Detailed GitHub Metrics
+
+<div align="center">
+
+![GitHub metrics](https://metrics.lecoq.io/sokol-matija?template=classic&config.timezone=Europe%2FZagreb)
+
+</div>
+
+## 🔥 GitHub Streak & Activity
+
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sokol-matija&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
-### 🏆 GitHub Achievements & Detailed Stats
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 🏆 GitHub Achievements & Trophies
 
 <div align="center">
 
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=sokol-matija&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+
+</div>
+
+### 🎯 Coding Stats
+
+<div align="center">
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sokol-matija&theme=radical)
 
@@ -270,26 +341,35 @@ Java         ████████████           65%
 
 </div>
 
-### ⚡ Live Activity & Metrics
+## 💼 What I'm Working On
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+- 🏨 **Enterprise Focus:** Building hotel management systems with advanced inventory tracking
+- 🎨 **Creative Development:** Mastering GSAP animations and interactive web experiences  
+- 🏥 **Professional Growth:** Developing pharmaceutical IT solutions at TomiPharm
+- 🇭🇷 **Local Expertise:** Croatian e-invoice compliance and regional business systems
+- 👯 **Collaboration:** Open to full-stack projects and system integration challenges
+- 💬 **Ask me about:** Enterprise React apps, .NET APIs, Supabase architecture, or Croatian market IT solutions
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## 🎓 Learning Journey
 
-## 🤝 Connect & Contact
+**🎯 Current Focus Areas:**
+- Advanced DevOps practices and cloud architecture patterns
+- Modern animation frameworks (GSAP, Framer Motion)
+- Enterprise system design and microservices
+- Cross-platform development strategies
+
+**📚 Education & Growth:**
+- **Algebra University Zagreb** - Computer Science (Final Year)
+- **Professional Experience** - 2+ years enterprise development at TomiPharm
+- **Continuous Learning** - Staying current with React 19, .NET 9, and modern full-stack patterns
+
+## 🎵 Music & Inspiration
 
 <div align="center">
 
-### 💼 Professional
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matija-sokol-0b29ba1b3/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sokol.matija@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sokol-matija)
-
-### 🎵 Social & Personal
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/66o5u6b7amuxtv9kbabma2fsr)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/zerocool247)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sokol.matija@gmail.com)
 
 *"Great code requires great music 🎶 | Open for collaboration & opportunities"*
 
@@ -316,6 +396,20 @@ Java         ████████████           65%
 ## 📈 Activity Graph
 
 [![Matija's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sokol-matija&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matija-sokol-0b29ba1b3/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sokol.matija@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sokol-matija)
+
+</div>
+
+## 📝 Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
