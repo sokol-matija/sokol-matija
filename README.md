@@ -279,6 +279,79 @@ Java         ████████████           65%
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 354.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 652 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 59 Public Repositories 
+ > 
+> 🔑 19 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                293 commits         ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+🌆 Daytime                524 commits         ████████████░░░░░░░░░░░░░   49.76 % 
+🌃 Evening                204 commits         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+🌙 Night                  32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Tuesday                  365 commits         █████████░░░░░░░░░░░░░░░░   34.66 % 
+Wednesday                127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Thursday                 184 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Friday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Saturday                 74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Sunday                   41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Zagreb
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+C#                       8 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/sokol-matija/sokol-matija/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/08/2025 20:59:03 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Connect & Contact
