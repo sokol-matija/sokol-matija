@@ -12,10 +12,6 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚════╝ ╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=sokol-matija&color=brightgreen&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/sokol-matija?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/sokol-matija?label=Total%20Stars&style=social)
-
 </div>
 
 <div align="center">
@@ -362,6 +358,14 @@ JavaScript               4 repos             ███░░░░░░░░�
 
  Last Updated on 25/08/2025 06:09:35 UTC
 <!--END_SECTION:waka-->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sokol-matija&color=brightgreen&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/sokol-matija?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/sokol-matija?label=Total%20Stars&style=social)
+
+</div>
 
 ## 🤝 Connect & Contact
 
