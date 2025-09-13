@@ -292,8 +292,6 @@ Java         ████████████           65%
 
 > 📦 356.2 kB Used in GitHub's Storage 
  > 
-> 🏆 717 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 59 Public Repositories 
@@ -356,7 +354,7 @@ JavaScript               4 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sokol-matija/sokol-matija/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2025 06:08:35 UTC
+ Last Updated on 13/09/2025 06:07:36 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
