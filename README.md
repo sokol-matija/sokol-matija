@@ -284,8 +284,6 @@ Java         ████████████           65%
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -300,45 +298,6 @@ Java         ████████████           65%
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                309 commits         ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-🌆 Daytime                541 commits         ████████████░░░░░░░░░░░░░   48.61 % 
-🌃 Evening                220 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-🌙 Night                  43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Tuesday                  368 commits         ████████░░░░░░░░░░░░░░░░░   33.06 % 
-Wednesday                135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Thursday                 196 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Friday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Saturday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Sunday                   42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Zagreb
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -356,7 +315,7 @@ JavaScript               4 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sokol-matija/sokol-matija/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 06:09:08 UTC
+ Last Updated on 20/09/2025 06:08:05 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
