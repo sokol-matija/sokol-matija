@@ -298,45 +298,6 @@ Java         ████████████           65%
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                332 commits         ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-🌆 Daytime                561 commits         ████████████░░░░░░░░░░░░░   47.14 % 
-🌃 Evening                254 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-🌙 Night                  43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Tuesday                  385 commits         ████████░░░░░░░░░░░░░░░░░   32.35 % 
-Wednesday                150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Thursday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Friday                   162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Saturday                 81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Sunday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Zagreb
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -354,7 +315,7 @@ MDX                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sokol-matija/sokol-matija/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 06:08:13 UTC
+ Last Updated on 03/11/2025 06:09:36 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
