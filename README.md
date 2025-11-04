@@ -284,13 +284,15 @@ Java         ████████████           65%
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 358.5 kB Used in GitHub's Storage 
+> 📦 358.8 kB Used in GitHub's Storage 
  > 
-> 🏆 838 Contributions in the Year 2025
+> 🏆 843 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -298,6 +300,45 @@ Java         ████████████           65%
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                335 commits         ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+🌆 Daytime                563 commits         ████████████░░░░░░░░░░░░░   47.11 % 
+🌃 Evening                254 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+🌙 Night                  43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Tuesday                  385 commits         ████████░░░░░░░░░░░░░░░░░   32.22 % 
+Wednesday                150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Thursday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Friday                   164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Saturday                 81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Sunday                   64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Zagreb
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -315,7 +356,7 @@ MDX                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sokol-matija/sokol-matija/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2025 06:09:36 UTC
+ Last Updated on 04/11/2025 06:09:31 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
