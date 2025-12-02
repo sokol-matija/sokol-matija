@@ -290,7 +290,7 @@ Java         ████████████           65%
 
 **🐱 My GitHub Data** 
 
-> 📦 361.2 kB Used in GitHub's Storage 
+> 📦 361.3 kB Used in GitHub's Storage 
  > 
 > 🏆 869 Contributions in the Year 2025
  > 
@@ -356,7 +356,7 @@ MDX                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sokol-matija/sokol-matija/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2025 06:10:53 UTC
+ Last Updated on 02/12/2025 06:09:48 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
