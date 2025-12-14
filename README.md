@@ -281,6 +281,7 @@ Java         ████████████           65%
 ### ⚡ Live Activity & Metrics
 
 <!--START_SECTION:activity-->
+1. ❌ Merged PR [#3](undefined) in [sokol-matija/pi-clean-city](https://github.com/sokol-matija/pi-clean-city)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
