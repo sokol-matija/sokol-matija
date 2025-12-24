@@ -328,16 +328,17 @@ Sunday                   65 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Zagreb
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   9 mins              ████████████████░░░░░░░░░   65.30 % 
+SSH Config               5 mins              █████████░░░░░░░░░░░░░░░░   34.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+msokol                   14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -357,7 +358,7 @@ MDX                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sokol-matija/sokol-matija/main/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2025 06:09:59 UTC
+ Last Updated on 24/12/2025 06:10:30 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
