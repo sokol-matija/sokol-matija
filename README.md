@@ -258,7 +258,7 @@ Java         ████████████           65%
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokol-matija&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sokol-matija&theme=radical&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sokol-matija&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
