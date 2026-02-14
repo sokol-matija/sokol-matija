@@ -328,22 +328,16 @@ Sunday                   309 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Zagreb
 
 💬 Programming Languages: 
-C#                       1 hr 6 mins         ███████████████████░░░░░░   74.90 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-CSHTML                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 18 mins        ██████████████████████░░░   88.77 % 
-Claude Code              9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-RWA-Mail-File-July       1 hr 23 mins        ████████████████████████░   94.34 % 
-kokoro-tts-player        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 28 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -363,7 +357,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sokol-matija/sokol-matija/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2026 06:26:49 UTC
+ Last Updated on 14/02/2026 06:18:42 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
