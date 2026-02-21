@@ -291,15 +291,15 @@ Java         ████████████           65%
 
 **🐱 My GitHub Data** 
 
-> 📦 502.8 kB Used in GitHub's Storage 
+> 📦 503.0 kB Used in GitHub's Storage 
  > 
-> 🏆 298 Contributions in the Year 2026
+> 🏆 302 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 68 Public Repositories 
  > 
-> 🔑 28 Private Repositories 
+> 🔑 29 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -328,16 +328,19 @@ Sunday                   373 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Zagreb
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               20 mins             ██████████████████████░░░   89.47 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Tomipharm January 2026   22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -357,7 +360,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sokol-matija/sokol-matija/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2026 06:24:16 UTC
+ Last Updated on 21/02/2026 06:17:33 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
