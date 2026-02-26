@@ -281,7 +281,7 @@ Java         ████████████           65%
 ### ⚡ Live Activity & Metrics
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/sokol-matija/pi-clean-city/pull/22) in [sokol-matija/pi-clean-city](https://github.com/sokol-matija/pi-clean-city)
+1. 💪 Opened PR [#243](https://github.com/lyqht/mini-qr/pull/243) in [lyqht/mini-qr](https://github.com/lyqht/mini-qr)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
