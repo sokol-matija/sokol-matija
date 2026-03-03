@@ -281,7 +281,7 @@ Java         ████████████           65%
 ### ⚡ Live Activity & Metrics
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#243](https://github.com/lyqht/mini-qr/pull/243) in [lyqht/mini-qr](https://github.com/lyqht/mini-qr)
+1. 🗣 Commented on [#243](https://github.com/lyqht/mini-qr/pull/243#issuecomment-3985739587) in [lyqht/mini-qr](https://github.com/lyqht/mini-qr)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
