@@ -281,7 +281,7 @@ Java         ████████████           65%
 ### ⚡ Live Activity & Metrics
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#107](https://github.com/matt1398/claude-devtools/issues/107) in [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools)
+1. 🔒 Closed issue [#506](https://github.com/rtk-ai/rtk/issues/506) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
