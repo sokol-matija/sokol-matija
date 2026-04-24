@@ -281,7 +281,7 @@ Java         ████████████           65%
 ### ⚡ Live Activity & Metrics
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13](https://github.com/sokol-matija/hotel-frontend/pull/13) in [sokol-matija/hotel-frontend](https://github.com/sokol-matija/hotel-frontend)
+1. 💪 Opened PR [#3](https://github.com/sokol-matija/text-reader-extension/pull/3) in [sokol-matija/text-reader-extension](https://github.com/sokol-matija/text-reader-extension)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
