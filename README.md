@@ -328,16 +328,19 @@ Sunday                   392 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Zagreb
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 37 mins             ████████████████████░░░░░   79.83 % 
+Other                    8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   46 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+zavrsni-rad              45 mins             █████████████████████████   98.49 % 
+hotel-inventory          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      46 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -357,7 +360,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sokol-matija/sokol-matija/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2026 06:49:18 UTC
+ Last Updated on 25/04/2026 06:39:58 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
