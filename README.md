@@ -281,7 +281,7 @@ Java         ████████████           65%
 ### ⚡ Live Activity & Metrics
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/sokol-matija/text-reader-extension/pull/3) in [sokol-matija/text-reader-extension](https://github.com/sokol-matija/text-reader-extension)
+1. ❗ Opened issue [#1252](https://github.com/MemPalace/mempalace/issues/1252) in [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
