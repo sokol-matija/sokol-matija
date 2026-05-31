@@ -328,18 +328,16 @@ Sunday                   400 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Zagreb
 
 💬 Programming Languages: 
-C#                       39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████░░░░   85.13 % 
-Cursor                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Wakatime                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-IIS                      39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -359,7 +357,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sokol-matija/sokol-matija/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2026 07:13:51 UTC
+ Last Updated on 31/05/2026 07:31:33 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
