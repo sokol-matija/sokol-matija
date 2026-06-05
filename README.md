@@ -285,7 +285,7 @@ Java         ████████████           65%
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.73%20million%20lines%20of%20code-blue?style=flat)
 
@@ -301,45 +301,6 @@ Java         ████████████           65%
  > 
 > 🔑 41 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1192 commits        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-🌆 Daytime                2799 commits        █████████████░░░░░░░░░░░░   50.04 % 
-🌃 Evening                1021 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-🌙 Night                  581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1134 commits        █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Tuesday                  655 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Wednesday                671 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Thursday                 596 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Friday                   1108 commits        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Saturday                 1029 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Sunday                   400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Zagreb
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -357,7 +318,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sokol-matija/sokol-matija/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2026 07:50:40 UTC
+ Last Updated on 05/06/2026 07:42:03 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
