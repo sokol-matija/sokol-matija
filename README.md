@@ -285,19 +285,19 @@ Java         ████████████           65%
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2035%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.73%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 625.7 kB Used in GitHub's Storage 
  > 
-> 🏆 764 Contributions in the Year 2026
- > 
 > 💼 Opted to Hire
  > 
 > 📜 73 Public Repositories 
  > 
-> 🔑 41 Private Repositories 
+> 🔑 42 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -364,7 +364,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sokol-matija/sokol-matija/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 07:36:37 UTC
+ Last Updated on 08/06/2026 07:56:20 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
