@@ -32,36 +32,25 @@
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Matija's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokol-matija&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5482B0&icon_color=7AAFD4&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokol-matija&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5482B0&text_color=ffffff)
-
-[![GitHub Streak](https://github-readme-streak-stats-pi-swart.vercel.app?user=sokol-matija&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sokol-matija&theme=github_dark)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sokol-matija&theme=github_dark)
+
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sokol-matija&theme=github_dark&utcOffset=1)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sokol-matija&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Snake animation](https://github.com/sokol-matija/sokol-matija/blob/output/github-contribution-grid-snake-dark.svg)
 
+[![GitHub Streak](https://github-readme-streak-stats-pi-swart.vercel.app?user=sokol-matija&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
-<h2 align="center">Claude AI Usage</h2>
+<h2 align="center">Token Usage</h2>
 
 <div align="center">
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/sokol-matija/svg)](https://tokscale.ai/u/sokol-matija)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sokol-matija&color=brightgreen&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/sokol-matija?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/sokol-matija?label=Total%20Stars&style=social)
 
 </div>
 
