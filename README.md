@@ -20,23 +20,9 @@ Full-Stack Developer and IT Specialist with **4+ years** of hands-on Solution Ar
 
 ## Tech Stack
 
-**Languages**
+[![Stack](https://skillicons.dev/icons?i=cs,ts,py,java,kotlin,react,vite,tailwind,dotnet,nodejs,deno,supabase,postgres,mongodb,docker,githubactions,vercel,aws,git,figma&perline=10)](https://skillicons.dev)
 
-[![Languages](https://skillicons.dev/icons?i=cs,ts,py,java)](https://skillicons.dev)
-
-**Frontend**
-
-[![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind)](https://skillicons.dev)
-
-**Backend & Databases**
-
-[![Backend](https://skillicons.dev/icons?i=dotnet,supabase,postgres,mongodb)](https://skillicons.dev)
-
-**DevOps & Cloud**
-
-[![DevOps](https://skillicons.dev/icons?i=docker,githubactions,vercel,aws)](https://skillicons.dev)
-
-**AI Tooling** — Claude Code · MCP servers · Custom skills & plugins
+`TanStack Start/Router` `shadcn/ui` `Zustand` `Zod` `Streamlit` `Pandas` `Plotly` `Claude Code` `MCP`
 
 ---
 
