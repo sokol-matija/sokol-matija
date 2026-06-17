@@ -1,0 +1,39 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: '0 0 6 11 *'  # Nov 6 each year (birthday)
+  workflow_dispatch:
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate and update age
+        run: |
+          BIRTH_YEAR=1996
+          BIRTH_MONTH=11
+          BIRTH_DAY=6
+
+          TODAY=$(date -u +%Y-%m-%d)
+          YEAR=$(date -u +%Y)
+          MONTH=$(date -u +%m)
+          DAY=$(date -u +%d)
+
+          AGE=$((YEAR - BIRTH_YEAR))
+          if [ "$MONTH" -lt "$BIRTH_MONTH" ] || { [ "$MONTH" -eq "$BIRTH_MONTH" ] && [ "$DAY" -lt "$BIRTH_DAY" ]; }; then
+            AGE=$((AGE - 1))
+          fi
+
+          sed -i "s/<!--AGE-->[0-9]*<!--\/AGE-->/<!--AGE-->$AGE<!--\/AGE-->/" README.md
+          echo "Age updated to $AGE"
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: update age to $(grep -oP '(?<=<!--AGE-->)\d+(?=<!--/AGE-->)' README.md)" && git push)

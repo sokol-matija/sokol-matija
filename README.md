@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · IT Specialist**
 
-Zagreb, Croatia
+<!--AGE-->29<!--/AGE--> · Zagreb, Croatia
 
 [![Email](https://img.shields.io/badge/sokol.matija%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sokol.matija@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/matija--sokol-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matija-sokol)
