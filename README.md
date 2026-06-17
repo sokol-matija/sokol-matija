@@ -30,7 +30,7 @@
 
 <div align="center">
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sokol-matija&theme=github_dark)
 
