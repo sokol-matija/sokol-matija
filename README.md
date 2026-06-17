@@ -3,7 +3,7 @@
 # Hi there! I'm 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Matija+Sokol;Full-Stack+Developer;React+%7C+TypeScript+%7C+.NET;Always+Building)](https://git.io/typing-svg)
 
-<img src=".github/assets/name-banner.svg" alt="MATIJA SOKOL" />
+<img src=".github/assets/name-banner.png" alt="MATIJA SOKOL" />
 
 </div>
 
