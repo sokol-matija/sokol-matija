@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
@@ -19,8 +17,6 @@
 
 </div>
 
----
-
 <h2 align="center">Current Favorite Stack</h2>
 
 <div align="center">
@@ -29,8 +25,6 @@
 <img src=".github/icons/shadcn.svg" width="48" height="48" title="shadcn/ui" alt="shadcn/ui" />
 <img src=".github/icons/claude.svg" width="48" height="48" title="Claude" alt="Claude" />
 </div>
-
----
 
 <h2 align="center">GitHub Stats</h2>
 
@@ -55,8 +49,6 @@
 
 </div>
 
----
-
 <h2 align="center">Claude AI Usage</h2>
 
 <div align="center">
@@ -64,8 +56,6 @@
 [![Tokscale Stats](https://tokscale.ai/api/embed/sokol-matija/svg)](https://tokscale.ai/u/sokol-matija)
 
 </div>
-
----
 
 <div align="center">
 
@@ -83,9 +73,5 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sokol.matija@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/66o5u6b7amuxtv9kbabma2fsr)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/zerocool247)
-
----
-
-⭐️ From [sokol-matija](https://github.com/sokol-matija)
 
 </div>
