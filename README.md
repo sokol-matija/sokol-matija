@@ -1,20 +1,57 @@
 <div align="center">
+  
+# Hi there! I'm 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Matija+Sokol;Full-Stack+Developer;React+%7C+TypeScript+%7C+.NET;Always+Building)](https://git.io/typing-svg)
 
-# Matija Sokol
-
-**Full-Stack Developer · IT Specialist**
-
-<!--AGE-->29<!--/AGE--> · Zagreb, Croatia
-
-[![Email](https://img.shields.io/badge/sokol.matija%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sokol.matija@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/matija--sokol-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/matija-sokol)
-[![GitHub](https://img.shields.io/badge/sokol--matija-181717?style=flat&logo=github&logoColor=white)](https://github.com/sokol-matija)
+```
+███╗   ███╗ █████╗ ████████╗██╗     ██╗ █████╗     ███████╗ ██████╗ ██╗  ██╗ ██████╗ ██╗     
+████╗ ████║██╔══██╗╚══██╔══╝██║     ██║██╔══██╗    ██╔════╝██╔═══██╗██║ ██╔╝██╔═══██╗██║     
+██╔████╔██║███████║   ██║   ██║     ██║███████║    ███████╗██║   ██║█████╔╝ ██║   ██║██║     
+██║╚██╔╝██║██╔══██║   ██║   ██║██   ██║██╔══██║    ╚════██║██║   ██║██╔═██╗ ██║   ██║██║     
+██║ ╚═╝ ██║██║  ██║   ██║   ██║╚█████╔╝██║  ██║    ███████║╚██████╔╝██║  ██╗╚██████╔╝███████╗
+╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚════╝ ╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+```
 
 </div>
 
----
+<div align="center">
 
-Full-Stack Developer and IT Specialist with **4+ years** of hands-on Solution Architecture experience, specializing in modern React / TypeScript frontends, scalable APIs, and business-critical systems for ERP, BI, and regulatory compliance. Proven track record of architecting end-to-end products from concept to launch — pharmaceutical wholesale platforms, production hotel management systems, and open-source tooling — across C# / .NET, Python, and Supabase. Strong owner mindset, comfortable working independently across full product lifecycles. Final-year BSc Software Engineering, Algebra University.
+## About Me
+
+</div>
+
+```typescript
+const matija = {
+    age: 29,
+    location: "Zagreb, Croatia",
+    company: "TomiPharm d.o.o. + HP Poreč (Freelance)",
+    role: "Full-Stack Developer | IT Specialist (4+ years)",
+    education: "BSc Software Engineering @ Algebra University (Final Year)",
+    currentFocus: ["Hotel PMS", "Enterprise ERP", "AI tooling"],
+    passions: ["Clean architecture", "End-to-end ownership", "Rapid prototyping"],
+    askMeAbout: [".NET", "React", "TypeScript", "Supabase", "System design"],
+    currentlyLearning: ["TanStack Start", "Grafana/Prometheus", "Advanced DevOps"],
+    openToCollaborate: true
+};
+```
+
+## Professional Experience
+
+**TomiPharm d.o.o.** — *IT Specialist | Full-Stack Developer* (2022 – Present)
+
+Architected an enterprise ERP for a pharmaceutical wholesaler — inventory, ordering, returns, debts, Croatian e-invoicing with digital signing, OCR invoice import pipeline, IQVIA market-analytics module, and a multi-page BI platform over 10+ years of sales data.
+
+**HP Poreč — Hotel Property Management System** — *Freelance Full-Stack Developer* (Jul 2025 – Present)
+
+Built a production hotel PMS from scratch — multi-day drag-and-drop reservation timeline, Croatian fiscal compliance with digitally signed invoices, NFC room-cleaning tags, cron automation, multi-language guest comms, and a power-user keyboard-shortcut layer.
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Available%20for%20Projects-green?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-4%2B%20Years%20Enterprise-orange?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Zagreb%2C%20Croatia-blue?style=flat-square)
+
+</div>
 
 ---
 
@@ -22,7 +59,9 @@ Full-Stack Developer and IT Specialist with **4+ years** of hands-on Solution Ar
 
 [![Stack](https://skillicons.dev/icons?i=cs,ts,py,java,bash,css,react,vite,tailwind,dotnet,nodejs,deno,graphql,supabase,postgres,mongodb,redis,kotlin,docker,githubactions,vercel,aws,grafana,prometheus,git,figma,vitest&perline=9)](https://skillicons.dev)
 
-<img src=".github/icons/tanstack.com.png" width="48" height="48" title="TanStack Router" alt="TanStack Router" /> &nbsp; `shadcn/ui` `Zustand` `Zod` `Streamlit` `Pandas` `Plotly` `Claude Code` `MCP` `SQL Server` `Tailscale`
+<img src=".github/icons/tanstack.com.png" width="48" height="48" title="TanStack Router" alt="TanStack Router" />
+
+`TanStack Start/Router` `shadcn/ui` `Zustand` `Zod` `Streamlit` `Pandas` `Plotly` `Claude Code` `MCP` `SQL Server` `Tailscale`
 
 **Current favorite stack**
 
@@ -30,50 +69,133 @@ Full-Stack Developer and IT Specialist with **4+ years** of hands-on Solution Ar
 
 ---
 
-## Work Experience
-
-**[TomiPharm d.o.o.](https://github.com/sokol-matija)** — IT Specialist | Full-Stack Developer &nbsp; `2022 – Present`
-
-- Architected an enterprise ERP for a pharmaceutical wholesaler, owning end-to-end design across inventory, ordering, returns, debts, and Croatian electronic invoicing with digital signing
-- Designed and shipped an OCR-based invoice import pipeline that automatically parses supplier PDFs into structured product data, with mobile review and dry-run modes
-- Delivered a Croatian market-analytics module powered by IQVIA data — county-level map, manufacturer leaderboard, market-share visualization, and bulk multi-file ZIP import
-- Built a multi-page BI platform over a decade of historical sales data, with year-over-year, quarterly, customer-retention, and Pareto reporting
-- Lead IT infrastructure, onboarding, documentation, and procurement tenders
-
-**HP Poreč — Hotel Property Management System** — Freelance Full-Stack Developer &nbsp; `Jul 2025 – Present`
-
-- Built a production hotel management system from the ground up, including a multi-day drag-and-drop reservation timeline and full guest management workflow
-- Implemented Croatian fiscal compliance with digitally signed invoices, QR-coded PDFs, NFC room-cleaning tags, and cron-driven automation for front-desk procedures
-- Shipped multi-language guest communications, mobile push notifications, and a power-user keyboard-shortcut layer for the front desk
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
-## Key Projects
+## Featured Projects
 
-| Project | Stack | Description |
-|---|---|---|
-| [**Open-Source CLI Scaffolder**](https://github.com/sokol-matija) | TypeScript · npm | Interactive CLI scaffolding production-ready full-stack SaaS apps in a single command — auth, payments, email, CI/CD, AI tooling |
-| [**pokemon-cards-css**](https://github.com/sokol-matija/pokemon-cards-css) | Svelte · CSS | Realistic holographic Pokémon card effects; featured on CSS-Tricks |
-| [**Hotel Management Frontend**](https://github.com/sokol-matija/hotel-frontend) | React · TanStack · Tailwind | Server-side rendering, file-based routing, polished design system on continuous delivery |
-| [**Multiplatform TTS Ecosystem**](https://github.com/sokol-matija/text-reader-extension) | Kotlin · JS · Tailscale | Self-hosted TTS: browser extension + Android app with on-device camera OCR over a private network |
-| [**Gene Expression Analyzer**](https://github.com/sokol-matija/tcga-gene-expression-final) | Python · Streamlit · Plotly | ETL pipeline scraping cancer-genomics data, processing large biomedical datasets, interactive analytics dashboard |
-| [**CommunalCity Problem Reporting**](https://github.com/sokol-matija/pi-clean-city) | TypeScript | Map-based citizen reporting app with full DevOps pipeline: E2E testing, performance auditing, security scanning |
-| [**Claude Code WC3 Audio Hooks**](https://github.com/sokol-matija/claude-code-w3-audio-hooks) | Python | Claude Code hooks with Warcraft 3 audio notifications |
-| [**youtube-not-interested**](https://github.com/sokol-matija/youtube-not-interested) | JavaScript | Browser extension to bulk-mark YouTube videos as Not Interested |
+### Pokemon Cards CSS — Holographic Effects
+
+**Viral CSS project featured on CSS-Tricks**
+
+**Stack:** Svelte · CSS3 · Advanced Animations  
+**Highlights:** 1.8k+ GitHub stars · Featured on CSS-Tricks & CodePen · Realistic holographic card effects using pure CSS transforms  
+[Live Demo](https://poke-holo.simey.me/) | [CSS-Tricks Article](https://css-tricks.com/holographic-trading-card-effect/)
 
 ---
 
-## Education
+### Open-Source CLI Scaffolder — Published on npm
 
-**Algebra University** — BSc Software Engineering &nbsp; `2026 (Expected)`
-
-**Tehnička škola Ruđer Bošković, Zagreb** — Computer Engineering Technician
+Interactive CLI scaffolding production-ready full-stack SaaS apps in a single command — auth, payments, transactional email, CI/CD pipelines, and integrated AI-tooling configuration.
 
 ---
 
-## Languages &amp; Volunteering
+### HP Poreč — Hotel Property Management System
 
-**Croatian** — Native &nbsp;·&nbsp; **English** — Fluent (C1)
+Production hotel PMS built from the ground up. Multi-day drag-and-drop timeline, Croatian fiscal compliance, NFC tags, cron automation, mobile push notifications.
 
-- **Croatia Hot Air Balloon Team** — multimedia & ground crew
-- **eStudent** — Dev Team Organizer (3+ programming competitions, 150+ participants)
+**Stack:** React · TanStack Start/Router · Supabase · Tailwind · TypeScript
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### TomiPharm Integration System
+
+Enterprise pharmaceutical wholesale ERP. End-to-end design across inventory, ordering, returns, debts, and Croatian e-invoicing with digital signing.
+
+**Stack:** .NET · ASP.NET · SQL Server · T-SQL · REST
+
+</td>
+<td width="50%">
+
+### HP-Duga Pharmacy System
+
+Full-stack pharmacy management with Croatian FINA e-invoice compliance. Multi-pharmacy inventory, real-time order management, enterprise integrations.
+
+**Stack:** React · TypeScript · Supabase · SOAP · XML/UBL
+
+</td>
+</tr>
+</table>
+
+### Multiplatform TTS Ecosystem
+
+Self-hosted TTS spanning a browser extension and Android companion app with on-device camera OCR, both connecting to a personal TTS server over Tailscale.
+
+**Stack:** Kotlin · JavaScript · Tailscale
+
+### Gene Expression Analyzer — Live deployment
+
+Automated ETL pipeline scraping cancer-genomics data from a public research portal, processing large biomedical datasets, and visualizing in an interactive analytics dashboard.
+
+**Stack:** Python · Streamlit · Pandas · Plotly
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Matija's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokol-matija&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokol-matija&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff)
+
+[![GitHub Streak](https://github-readme-streak-stats-pi-swart.vercel.app?user=sokol-matija&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sokol-matija&theme=radical)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sokol-matija&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sokol-matija&theme=radical&utcOffset=1)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sokol-matija&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Snake animation](https://github.com/sokol-matija/sokol-matija/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### Claude AI Usage (via Tokscale)
+
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/sokol-matija/svg)](https://tokscale.ai/u/sokol-matija)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sokol-matija&color=brightgreen&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/sokol-matija?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/sokol-matija?label=Total%20Stars&style=social)
+
+</div>
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matija-sokol-0b29ba1b3/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sokol.matija@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/66o5u6b7amuxtv9kbabma2fsr)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/zerocool247)
+
+---
+
+⭐️ From [sokol-matija](https://github.com/sokol-matija)
+
+</div>

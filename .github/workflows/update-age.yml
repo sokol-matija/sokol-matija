@@ -30,6 +30,7 @@ jobs:
           fi
 
           sed -i "s/<!--AGE-->[0-9]*<!--\/AGE-->/<!--AGE-->$AGE<!--\/AGE-->/" README.md
+          sed -i "s/\(    age: \)[0-9]*/\1$AGE/" README.md
           echo "Age updated to $AGE"
 
       - name: Commit if changed
