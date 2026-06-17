@@ -65,7 +65,7 @@ Built a production hotel PMS from scratch — multi-day drag-and-drop reservatio
 
 </div>
 
-**Current favorite stack**
+## Current Favorite Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,react,vite,vitest,postgres,supabase,tailwind,vercel" height="48" alt="Favorite Stack" />
