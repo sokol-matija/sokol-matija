@@ -9,7 +9,7 @@
 
 <div align="center">
 
-## About Me
+<h2 align="center">About Me</h2>
 
 </div>
 
@@ -28,7 +28,7 @@ const matija = {
 };
 ```
 
-## Professional Experience
+<h2 align="center">Professional Experience</h2>
 
 **TomiPharm d.o.o.** — *IT Specialist | Full-Stack Developer* (2022 – Present)
 
@@ -48,7 +48,7 @@ Built a production hotel PMS from scratch — multi-day drag-and-drop reservatio
 
 ---
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -58,7 +58,7 @@ Built a production hotel PMS from scratch — multi-day drag-and-drop reservatio
 
 </div>
 
-## Current Favorite Stack
+<h2 align="center">Current Favorite Stack</h2>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,react,vite,vitest,postgres,supabase,tailwind,vercel" height="48" alt="Favorite Stack" />
@@ -73,9 +73,9 @@ Built a production hotel PMS from scratch — multi-day drag-and-drop reservatio
 
 ---
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
-### Pokemon Cards CSS — Holographic Effects
+<h3 align="center">Pokemon Cards CSS — Holographic Effects</h3>
 
 **Viral CSS project featured on CSS-Tricks**
 
@@ -85,13 +85,13 @@ Built a production hotel PMS from scratch — multi-day drag-and-drop reservatio
 
 ---
 
-### Open-Source CLI Scaffolder — Published on npm
+<h3 align="center">Open-Source CLI Scaffolder — Published on npm</h3>
 
 Interactive CLI scaffolding production-ready full-stack SaaS apps in a single command — auth, payments, transactional email, CI/CD pipelines, and integrated AI-tooling configuration.
 
 ---
 
-### HP Poreč — Hotel Property Management System
+<h3 align="center">HP Poreč — Hotel Property Management System</h3>
 
 Production hotel PMS built from the ground up. Multi-day drag-and-drop timeline, Croatian fiscal compliance, NFC tags, cron automation, mobile push notifications.
 
@@ -103,7 +103,7 @@ Production hotel PMS built from the ground up. Multi-day drag-and-drop timeline,
 <tr>
 <td width="50%">
 
-### TomiPharm Integration System
+<h3 align="center">TomiPharm Integration System</h3>
 
 Enterprise pharmaceutical wholesale ERP. End-to-end design across inventory, ordering, returns, debts, and Croatian e-invoicing with digital signing.
 
@@ -112,7 +112,7 @@ Enterprise pharmaceutical wholesale ERP. End-to-end design across inventory, ord
 </td>
 <td width="50%">
 
-### HP-Duga Pharmacy System
+<h3 align="center">HP-Duga Pharmacy System</h3>
 
 Full-stack pharmacy management with Croatian FINA e-invoice compliance. Multi-pharmacy inventory, real-time order management, enterprise integrations.
 
@@ -122,13 +122,13 @@ Full-stack pharmacy management with Croatian FINA e-invoice compliance. Multi-ph
 </tr>
 </table>
 
-### Multiplatform TTS Ecosystem
+<h3 align="center">Multiplatform TTS Ecosystem</h3>
 
 Self-hosted TTS spanning a browser extension and Android companion app with on-device camera OCR, both connecting to a personal TTS server over Tailscale.
 
 **Stack:** Kotlin · JavaScript · Tailscale
 
-### Gene Expression Analyzer — Live deployment
+<h3 align="center">Gene Expression Analyzer — Live deployment</h3>
 
 Automated ETL pipeline scraping cancer-genomics data from a public research portal, processing large biomedical datasets, and visualizing in an interactive analytics dashboard.
 
@@ -136,7 +136,7 @@ Automated ETL pipeline scraping cancer-genomics data from a public research port
 
 ---
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
@@ -167,7 +167,7 @@ Automated ETL pipeline scraping cancer-genomics data from a public research port
 
 ---
 
-### Claude AI Usage (via Tokscale)
+<h3 align="center">Claude AI Usage (via Tokscale)</h3>
 
 <div align="center">
 
@@ -185,7 +185,7 @@ Automated ETL pipeline scraping cancer-genomics data from a public research port
 
 </div>
 
-## Connect
+<h2 align="center">Connect</h2>
 
 <div align="center">
 
