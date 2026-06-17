@@ -66,10 +66,10 @@ Built a production hotel PMS from scratch — multi-day drag-and-drop reservatio
 **Current favorite stack**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,vite,vitest,postgres,supabase,tailwind,vercel" height="65" alt="Favorite Stack" />
-<img src=".github/icons/tanstack.svg" width="65" height="65" title="TanStack Router" alt="TanStack Router" />
-<img src=".github/icons/shadcn.svg" width="65" height="65" title="shadcn/ui" alt="shadcn/ui" />
-<img src=".github/icons/claude.svg" width="65" height="65" title="Claude" alt="Claude" />
+<img src="https://skillicons.dev/icons?i=ts,react,vite,vitest,postgres,supabase,tailwind,vercel" height="48" alt="Favorite Stack" />
+<img src=".github/icons/tanstack.svg" width="48" height="48" title="TanStack Router" alt="TanStack Router" />
+<img src=".github/icons/shadcn.svg" width="48" height="48" title="shadcn/ui" alt="shadcn/ui" />
+<img src=".github/icons/claude.svg" width="48" height="48" title="Claude" alt="Claude" />
 </div>
 
 ---
