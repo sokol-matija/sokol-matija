@@ -57,11 +57,13 @@ Built a production hotel PMS from scratch — multi-day drag-and-drop reservatio
 
 ## Tech Stack
 
-[![Stack](https://skillicons.dev/icons?i=cs,ts,py,java,bash,css,react,vite,tailwind,dotnet,nodejs,deno,graphql,supabase,postgres,mongodb,redis,kotlin,docker,githubactions,vercel,aws,grafana,prometheus,git,figma,vitest&perline=9)](https://skillicons.dev)
+<div align="center">
 
-<img src=".github/icons/tanstack.svg" width="48" height="48" title="TanStack Router" alt="TanStack Router" />
+<img src="https://skillicons.dev/icons?i=cs,ts,py,java,bash,css,react,vite,tailwind,dotnet,nodejs,deno,graphql,supabase,postgres,mongodb,redis,kotlin,docker,githubactions,vercel,aws,grafana,prometheus,git,figma,vitest&perline=9" alt="Tech Stack" />
 
 `TanStack Start/Router` `shadcn/ui` `Zustand` `Zod` `Streamlit` `Pandas` `Plotly` `Claude Code` `MCP` `SQL Server` `Tailscale`
+
+</div>
 
 **Current favorite stack**
 
