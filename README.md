@@ -22,7 +22,7 @@ Full-Stack Developer and IT Specialist with **4+ years** of hands-on Solution Ar
 
 [![Stack](https://skillicons.dev/icons?i=cs,ts,py,java,bash,css,react,vite,tailwind,dotnet,nodejs,deno,graphql,supabase,postgres,mongodb,redis,kotlin,docker,githubactions,vercel,aws,grafana,prometheus,git,figma,vitest&perline=9)](https://skillicons.dev)
 
-`TanStack Start/Router` `shadcn/ui` `Zustand` `Zod` `Streamlit` `Pandas` `Plotly` `Claude Code` `MCP` `SQL Server` `Tailscale`
+<img src=".github/icons/tanstack.com.png" width="48" height="48" title="TanStack Router" alt="TanStack Router" /> &nbsp; `shadcn/ui` `Zustand` `Zod` `Streamlit` `Pandas` `Plotly` `Claude Code` `MCP` `SQL Server` `Tailscale`
 
 **Current favorite stack**
 
