@@ -34,9 +34,7 @@
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sokol-matija&theme=github_dark)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sokol-matija&theme=github_dark)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sokol-matija&theme=github_dark&utcOffset=1)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sokol-matija&theme=github_dark" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sokol-matija&theme=github_dark&utcOffset=1" />
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sokol-matija&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
